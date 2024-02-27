@@ -3,8 +3,7 @@ def impar_par():
         print('O Número é Par')
     else:
         print('O Número é Impar')
-    
-
+        
 #-----------------------------
 
 print('Impar ou Par')
