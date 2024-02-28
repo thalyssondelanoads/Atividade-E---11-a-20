@@ -1,4 +1,4 @@
-def valores():
+def operaçoes():
     print(' ADIÇÃO - 1')
     print(' SUBTRAÇÃO - 2')
     print(' MULTIPLICAÇÃO - 3')
@@ -39,4 +39,4 @@ operaçao = int(input('Digite o Número da Operação que deseja: '))
 num2 = int(input('Digite o 2º Número: '))
 print('------------')
 
-calculos()
+operaçoes()
