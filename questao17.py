@@ -1,4 +1,4 @@
-def operaçoes():
+def resto_calculo():
     if num2 == 0 or num1 == 0 or num1 == num2:
         num1_quadrado = num1 ** 2
         num2_quadrado = num2 ** 2
@@ -36,4 +36,4 @@ num1 = int(input('Digite um Número Inteiro: '))
 num2 = int(input('Digite outro Número Inteiro: '))
 print('------------')
 
-operaçoes()
+resto_calculo()
