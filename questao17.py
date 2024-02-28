@@ -27,7 +27,7 @@ def operaçoes():
         result4 = (num1 + num2) / num2
         print(f' A soma de {num1} + {num2} / {num2} = {result4:.2f}')
         
-# ---------------------------
+#---------------------------
 
 print('Operações')
 print('------------')
