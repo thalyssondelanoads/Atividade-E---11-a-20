@@ -16,7 +16,7 @@ def aprovação():
         else:
             print(f'--> Média: {nota_final:.2f} - Reprovado')
 
-# ---------------------------
+#---------------------------
 
 print('Aprovado ou Reprovado')
 print('------------')
