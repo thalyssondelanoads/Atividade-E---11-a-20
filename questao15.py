@@ -12,7 +12,7 @@ def salario():
   elif salario2 > salario1:
       print(' O Maior Salário é do Profº 2')
   else:
-      print(' 0s Salários são Iguais')
+      print(' Os Salários são Iguais')
       
 #----------------------------
 
