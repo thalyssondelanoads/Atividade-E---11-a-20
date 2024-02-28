@@ -31,7 +31,7 @@ def calculos():
 print('Calculadora Simples')
 print('------------')
 
-valores()
+operaçoes()
 
 print('------------')
 num1 = int(input('Digite o 1º Número: '))
@@ -39,4 +39,4 @@ operaçao = int(input('Digite o Número da Operação que deseja: '))
 num2 = int(input('Digite o 2º Número: '))
 print('------------')
 
-operaçoes()
+calculos()
