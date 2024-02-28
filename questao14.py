@@ -1,5 +1,6 @@
 def media_maior():
     media = (num1 + num2 + num3 + num4 + num5) / 5
+    
     print(f' A Média dos Números é {media} ')
     print('__________')
     print(' Os Números maiores que a Média são: ')
