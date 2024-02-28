@@ -23,6 +23,9 @@ def calculos():
         div = num1 / num2
         print(f' {num1} / {num2} = {div:.2f} ')
         
+    else:
+        print(' Operação Inválida' )
+        
 #---------------------------
 
 print('Calculadora Simples')
